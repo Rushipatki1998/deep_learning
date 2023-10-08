@@ -1,0 +1,3 @@
+
+This is a sample text data placeholder for testing the deep learning scripts.
+Replace this with actual data for training and testing the model.
